@@ -1,0 +1,15 @@
+0.0.0.0 api.ad.intl.xiaomi.com
+0.0.0.0 app-measurement.com
+0.0.0.0 ecs.office.com
+0.0.0.0 firebase-settings.crashlytics.com
+0.0.0.0 firefox.settings.services.mozilla.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 gslb.shalltry.com
+0.0.0.0 ins.shalltry.com
+0.0.0.0 ire-dsu.shalltry.com
+0.0.0.0 ire-oneid.shalltry.com
+0.0.0.0 mozilla.map.fastly.net
+0.0.0.0 push.services.mozilla.com
+0.0.0.0 sdkconfig.ad.intl.xiaomi.com
+0.0.0.0 sgp-howl.api.intl.miui.com
+0.0.0.0 tracking.intl.miui.com
